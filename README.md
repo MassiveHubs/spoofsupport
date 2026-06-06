@@ -1,5 +1,10 @@
 # 🤵 SpoofVPN Support Bot
 
+```markdown
+![GitHub License](https://img.shields.io/github/license/MassiveHubs/spoofsupport?style=flat-square&color=blue)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+```
+
 Телеграм-бот поддержки с режимом топиков (Forum Topics), системой FAQ и управлением тикетами.
 
 ---
