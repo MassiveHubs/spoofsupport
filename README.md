@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/RAM-15_MB-green?style=for-the-badge" alt="RAM Usage">
+  <img src="https://img.shields.io/badge/RAM-~15_MB-green?style=for-the-badge" alt="RAM Usage">
   <img src="https://img.shields.io/github/stars/MassiveHubs/spoofsupport?style=for-the-badge&color=yellow" alt="GitHub Repo stars">
   <img src="https://img.shields.io/github/last-commit/MassiveHubs/spoofsupport?style=for-the-badge&color=orange" alt="GitHub last commit">
   <img src="https://img.shields.io/github/license/MassiveHubs/spoofsupport?style=for-the-badge&color=blue" alt="GitHub License">
